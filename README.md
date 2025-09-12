@@ -2,10 +2,11 @@
 
 ## Opis
 
-U ovom projektu implementirana je baza podataka za praćenje prtljage u zračnom prometu i demonstrirana njena korisnost kroz razne upite postavljenje na njoj.
+U ovom projektu implementirana je baza podataka za praćenje prtljage u zračnom prometu i demonstrirana njena korisnost kroz razne upite implementirane upravo za ovu bazu podataka.
 
 ## Struktura Projekta
 
+* **`ERD.png`**: MEV dijagram.
 * **`tables.sql`**: SQL kod za implementaciju tablica i indexa.
 * **`triggers.sql`**: SQL kod za implementaciju okidača.
 * **`functions.sql`**: SQL kod za implementaciju funkcija register_baggage_and_itinerary() i log_baggage_status() koje se koriste za unosenje podataka u bazu.
