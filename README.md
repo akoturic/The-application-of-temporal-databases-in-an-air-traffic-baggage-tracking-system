@@ -13,4 +13,4 @@ U ovom projektu implementirana je baza podataka za praćenje prtljage u zračnom
 * **`data_insert.sql`**: SQL kod za unos podataka u tablice Airport, Passanger i Location.
 * **`data_insert2.sql`**: SQL kod za unos podataka u tablice Flight, Baggage, BaggageItinerary i BaggageHistory. Podaci unešeni na temelju kreiranih scenarija.
 * **`queries.sql`**: SQL kod za upite.
-* **`Koturic_diplomskiRad.pdf`**: Diplomski rad - "Primjena temporalne baza podataka u sustavu za pračenje prtljage u zračnom prometu".
+* **`Koturic_diplomskiRad.pdf`**: Diplomski rad - "Primjena temporalne baza podataka u sustavu za praćenje prtljage u zračnom prometu".
